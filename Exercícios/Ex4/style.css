@@ -1,0 +1,27 @@
+body {
+    font-family: 'Helvetica', Arial, sans-serif;
+    background: rgb(243, 133, 133)
+}
+
+header {
+    color: rgb(255, 255, 242);
+    text-align: center;
+    
+}
+
+section {
+    background: rgb(255, 255, 242);
+    text-align: center;
+    border-radius: 5px;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.164);
+}
+
+footer {
+    color: rgb(255, 255, 242);
+    text-align: center;
+    font-style: italic;
+}
+
